@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="pushrod.core.IPart"/>
+    <classEntry path="pushrod.core.IMotor"/>
+    <classEntry path="pushrod.core.Crate"/>
+    <classEntry path="pushrod.core.Machine"/>
+    <classEntry path="pushrod.events.MachineEvent"/>
+    <classEntry path="pushrod.commons.parts.XYPart"/>
+    <classEntry path="pushrod.commons.parts.StatePart"/>
+    <classEntry path="pushrod.commons.motors.CounterMotor"/>
+    <classEntry path="pushrod.commons.parts.DisplayPart"/>
+    <classEntry path="pushrod.commons.motors.DisplayRenderMotor"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
