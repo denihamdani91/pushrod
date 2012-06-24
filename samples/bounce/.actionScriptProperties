@@ -28,7 +28,7 @@
           <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_agent.swc" useDefaultLinkType="false"/>
         </excludedEntries>
       </libraryPathEntry>
-      <libraryPathEntry kind="3" linkType="1" path="C:/repos/pushrod/bin/pushrod.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="C:/Documents and Settings/dualcore E5400/repos/pushrod/bin/pushrod.swc" useDefaultLinkType="false"/>
       <libraryPathEntry kind="3" linkType="1" path="C:/Documents and Settings/dualcore E5400/My Documents/Flash Project/Lib/as3-commons/swc/as3commons-collections-1.3.2.swc" useDefaultLinkType="false"/>
       <libraryPathEntry kind="3" linkType="1" path="C:/Documents and Settings/dualcore E5400/My Documents/Flash Project/Lib/PrimaryFeather-Starling-Framework-4ee83c1/starling/bin/starling.swc" useDefaultLinkType="false"/>
     </libraryPath>
